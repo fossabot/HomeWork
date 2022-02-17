@@ -10,7 +10,7 @@
 
 ### 概述
 
- - 基于Spring + Spring MVC + MyBatis的图书馆管理系统，使用Maven进行包管理。主要功能包括：图书查询、图书管理、图书编辑、读者管理、图书的借阅与归还以及借还日志记录等。
+- 基于Spring + Spring MVC + MyBatis的图书馆管理系统，使用Maven进行包管理。主要功能包括：图书查询、图书管理、图书编辑、读者管理、图书的借阅与归还以及借还日志记录等。
 
 ### 架构功能图片
 ![假期作业](./md_src/假期作业.png)
@@ -62,7 +62,7 @@
 | class_id     | int     | 11   | 0      | 是   | 分类号   |      |
 | number       | int     | 11   | 0      | 是   | 剩余数量 |      |
 
-  
+
 
 #### 2. 数据库管理员表admin
 
@@ -72,7 +72,7 @@
 | password | varchar | 15   | 0      | 否   | 密码   |      |
 | username | varchar | 15   | 0      | 是   | 用户名 |      |
 
-  
+
 
 #### 3. 图书分类表class_info
 
@@ -81,7 +81,7 @@
 | class_id   | int     | 11   | 0      | 否   | 类别号 | ✔    |
 | class_name | varchar | 15   | 0      | 否   | 类别名 |      |
 
-  
+
 
 #### 4. 借阅信息表lend_list
 
@@ -93,7 +93,7 @@
 | lend_date | date   | 0    | 0      | 是   | 借出日期 |      |
 | back_date | date   | 0    | 0      | 是   | 归还日期 |      |
 
-  
+
 
 #### 5. 借阅卡信息表reader_card
 
@@ -103,7 +103,7 @@
 | password  | varchar | 15   | 0      | 否   | 密码     |      |
 | username  | varchar | 15   | 0      | 是   | 用户名   |      |
 
-  
+
 
 #### 6. 读者信息表reader_info
 
