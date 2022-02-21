@@ -13,7 +13,7 @@
 - 基于Spring + Spring MVC + MyBatis的图书馆管理系统，使用Maven进行包管理。主要功能包括：图书查询、图书管理、图书编辑、读者管理、图书的借阅与归还以及借还日志记录等。
 
 ### 架构功能图片
-![假期作业](./md_src/假期作业.png)
+![假期作业](https://cdn.cts.blue/cdnfilecache/homework/md_src/homework.webp)
 
 ### 环境配置
 #### 开发环境：Windows 11 & Arch Linux
