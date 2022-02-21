@@ -5,14 +5,14 @@ spring:
   datasource:
     druid:
       driver-class-name: com.mysql.cj.jdbc.Driver
-      url: jdbc:mysql://localhost:3306/ssm_db?serverTimezone=UTC
+      url: jdbc:mysql://localhost:3309/curtis_asia?serverTimezone=UTC
       username: root
-      password: 333
+      password: 233333
 
 mybatis-plus:
   global-config:
     db-config:
-      table-prefix: tbl_
+      table-prefix: curtis_
       id-type: auto
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
