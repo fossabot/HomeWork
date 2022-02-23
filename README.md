@@ -1,5 +1,11 @@
 # 图书馆管理系统
 
+> CVE待解决 @mysql connector 4x
+
+### 假期更新图片
+![GithubCommits](./markdown_pic/GithubCommits.png)
+- 目前停留在Dev分支 还有一些MySQL的漏洞没解决掉
+=======
 > MySQL CVE待解决
 
 ### 概述
@@ -7,8 +13,7 @@
 - 基于 Spring + MyBatisPlus + Vue + Lombok 的图书馆管理系统，使用Maven进行包管理。主要功能包括：图书查询、图书管理、图书编辑、图书的借阅与归还以及借还日志记录等。
 
 ### 架构功能图片
-![假期作业](https://cdn.cts.blue/cdnfilecache/homework/md_src/homework.webp)
-
+  ![假期作业](./markdown_pic/homework.png)
 ### 环境配置
 #### 开发环境：Windows 11 & Arch Linux
 | 工具名称             | 用途                  |
@@ -38,3 +43,7 @@
   - ElementUI 前后端分离 (可能没分离太开)
   - 异常抛报错
 - 功能调整
+
+### 功能报错问题
+- SpringBoot可以正常跑 但是可能因为我修改了插件链接方式，导致SpringBoot报白板页。
+- 项目完成95% 还差白板页没解决。
