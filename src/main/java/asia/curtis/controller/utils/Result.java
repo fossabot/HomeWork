@@ -28,7 +28,7 @@ public class Result {
         this.msg = msg;
     }
 
-    // 给出现异常的情况使用
+    // 给出现异常的情况使用 抛出问题
     public Result(String msg) {
         this.flag = false;
         this.msg = msg;
