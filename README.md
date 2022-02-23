@@ -9,10 +9,10 @@
 > MySQL CVE待解决
 
 
-### 假期更新图片
+### 假期更新图片 II
 ![GithubCommits](./markdown_pic/GithubCommits.png)
 ![GithubCommitsMerge](./markdown_pic/GithubCommitsMerge.png)
-- 目前停留在Dev分支 还有一些MySQL的漏洞没解决掉
+- 分支合并完成 仍然还有一些MySQL的漏洞没解决掉
 
 ### 概述
 
