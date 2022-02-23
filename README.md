@@ -5,6 +5,9 @@
 ### 假期更新图片
 ![GithubCommits](./markdown_pic/GithubCommits.png)
 - 目前停留在Dev分支 还有一些MySQL的漏洞没解决掉
+=======
+> MySQL CVE待解决
+
 ### 概述
 
 - 基于 Spring + MyBatisPlus + Vue + Lombok 的图书馆管理系统，使用Maven进行包管理。主要功能包括：图书查询、图书管理、图书编辑、图书的借阅与归还以及借还日志记录等。
