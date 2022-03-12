@@ -4,6 +4,7 @@
 
 ### 假期更新图片
 ![GithubCommits](./markdown_pic/GithubCommits.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcurtisrecords%2FHomeWork.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcurtisrecords%2FHomeWork?ref=badge_shield)
 - 目前停留在Dev分支 还有一些MySQL的漏洞没解决掉
 
 > MySQL CVE待解决
@@ -53,3 +54,7 @@
 ### 功能报错问题
 - SpringBoot可以正常跑 但是可能因为我修改了插件链接方式，导致SpringBoot报白板页。
 - 项目完成95% 还差白板页没解决。
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcurtisrecords%2FHomeWork.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcurtisrecords%2FHomeWork?ref=badge_large)
